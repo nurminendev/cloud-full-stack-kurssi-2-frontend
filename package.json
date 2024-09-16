@@ -1,0 +1,14 @@
+{
+  "name": "cloud-full-stack-kurssi-2-frontend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "pino": "^9.4.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^11.2.2"
+  }
+}
