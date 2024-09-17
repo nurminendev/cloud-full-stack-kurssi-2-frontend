@@ -17,7 +17,7 @@ import logger         from './logger.js'
 
 const __dirname = path.dirname(new URL(import.meta.url).pathname)
 
-const port = process.env.PORT || 4000
+const port = process.env.PORT || 3000
 
 const app = express()
 
